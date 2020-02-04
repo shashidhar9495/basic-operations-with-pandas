@@ -13,7 +13,7 @@ import pandas as pd
 data_frames=pd.read_csv('pandas_data/pokemon_data.csv')
 
 
-# ## readind top3 and tottom 3 files
+# ## reading top3 and tottom 3 files
 
 # In[3]:
 
